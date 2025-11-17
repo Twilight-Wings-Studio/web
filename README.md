@@ -1,1 +1,1 @@
-![TOP](https://twilight-wings-studio.com/)
+[TOP](https://twilight-wings-studio.com/){:target "_new"}
